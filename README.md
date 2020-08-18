@@ -18,8 +18,11 @@ NOTE: otherwise submit button will be diisabled
 
 ***********ACCOUNT CREATION FOR JABATALKS*********
 Please enter a details...
+
 Enter name    : Anushree
+
 Enter organisation name  :  Anushree
+
 #### ENTER THE VALID GMAIL ACCOUNT AND IT SHOULD NOT BE REGISTERED BEFORE WITH JABATALKS ######
 ### IF U HAVE ALREADY AN ACCOUNT THEN PLEASE LOGIN WITH VALID CREDENTIALS ###
 Enter email  : XXXXX@gmail.com
